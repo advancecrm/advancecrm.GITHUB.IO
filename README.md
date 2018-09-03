@@ -1,5 +1,3 @@
-# advancecrm.GITHUB.IO
-test repository
 # Hello World!
 My name is GITHUB_advancecrm
 
